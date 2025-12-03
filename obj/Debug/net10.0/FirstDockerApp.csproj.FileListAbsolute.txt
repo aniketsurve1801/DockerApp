@@ -95,3 +95,4 @@
 /Users/abc/Documents/Docker/FirstDockerApp/FirstDockerApp/obj/Debug/net10.0/FirstDockerApp.pdb
 /Users/abc/Documents/Docker/FirstDockerApp/FirstDockerApp/obj/Debug/net10.0/FirstDockerApp.genruntimeconfig.cache
 /Users/abc/Documents/Docker/FirstDockerApp/FirstDockerApp/obj/Debug/net10.0/ref/FirstDockerApp.dll
+/Users/abc/Documents/Docker/FirstDockerApp/FirstDockerApp/obj/Debug/net10.0/FirstDockerApp.sourcelink.json
